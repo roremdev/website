@@ -1,9 +1,0 @@
-extends layout
-block content
-  block header
-    include utils/menu-mix
-    +menu('Blog', 'Home', 'About', 'Projects')
-  main.main
-    include utils/card-list-mix
-    +cardList('Masterizando a … Flutter', 'La gestión de estados.', '1.0', 'tech')
-  footer.footer
