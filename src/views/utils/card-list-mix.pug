@@ -1,0 +1,11 @@
+mixin cardList(title, description, version, techonologies)
+    section.card-list
+        section.card-text
+            .card-text-title #{title}
+            .card-text-description #{description}
+            section.card-text-footer
+                section
+                    p Techonologies:
+                    img(src=require("../images/icons/icon-flutter.svg").default, alt="Icon Vuejs")
+                section.right
+                    p Version: #{version}

@@ -1,0 +1,19 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="40px"
+	 height="40px" viewBox="0 0 40 40" style="overflow:visible;enable-background:new 0 0 40 40;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#35495E;enable-background:new    ;}
+	.st1{fill:#FFFFFF;}
+</style>
+<defs>
+</defs>
+<g>
+	<path class="st0" d="M35,40H5c-2.8,0-5-2.2-5-5V5c0-2.8,2.2-5,5-5h30c2.8,0,5,2.2,5,5v30C40,37.8,37.8,40,35,40z"/>
+	<g>
+		<rect x="7.5" y="15.3" class="st1" width="5.6" height="17.2"/>
+		<path class="st1" d="M28.3,15.5c-0.1,0-0.1,0-0.2-0.1c-0.1,0-0.1,0-0.2,0c-0.3-0.1-0.6-0.1-1-0.1l0,0l0,0c-3.3,0-5.3,2.4-6,3.3
+			v-3.3h-5.6v17.2h5.6v-9.4c0,0,4.2-5.9,6-1.6c0,3.9,0,10.9,0,10.9h5.6V20.9C32.5,18.3,30.7,16.1,28.3,15.5z"/>
+		<circle class="st1" cx="10.2" cy="10.2" r="2.7"/>
+	</g>
+</g>
+</svg>
+
