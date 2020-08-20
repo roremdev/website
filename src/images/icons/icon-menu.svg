@@ -1,0 +1,24 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="40px"
+	 height="40px" viewBox="0 0 40 40" style="overflow:visible;enable-background:new 0 0 40 40;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#35495E;enable-background:new    ;}
+	.st1{fill:#FFFFFF;}
+	.st2{fill:#42B883;enable-background:new    ;}
+</style>
+<defs>
+</defs>
+<g>
+	<path class="st0" d="M35,40H5c-2.8,0-5-2.2-5-5V5c0-2.8,2.2-5,5-5h30c2.8,0,5,2.2,5,5v30C40,37.8,37.8,40,35,40z"/>
+	<g>
+		<path class="st1" d="M20.1,21.9H9.4c-1,0-1.9-0.8-1.9-1.9v0c0-1,0.8-1.9,1.9-1.9h10.8c1,0,1.9,0.8,1.9,1.9v0
+			C22,21,21.2,21.9,20.1,21.9z"/>
+		<path class="st1" d="M30.6,32.5H9.4c-1,0-1.9-0.8-1.9-1.9v0c0-1,0.8-1.9,1.9-1.9h21.3c1,0,1.9,0.8,1.9,1.9v0
+			C32.5,31.7,31.7,32.5,30.6,32.5z"/>
+		<path class="st1" d="M30.6,11.2H9.4c-1,0-1.9-0.8-1.9-1.9v0c0-1,0.8-1.9,1.9-1.9h21.3c1,0,1.9,0.8,1.9,1.9v0
+			C32.5,10.4,31.7,11.2,30.6,11.2z"/>
+		<path class="st2" d="M30.6,21.9h-2.8c-1,0-1.9-0.8-1.9-1.9v0c0-1,0.8-1.9,1.9-1.9h2.8c1,0,1.9,0.8,1.9,1.9v0
+			C32.5,21,31.7,21.9,30.6,21.9z"/>
+	</g>
+</g>
+</svg>
+

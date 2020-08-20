@@ -1,0 +1,79 @@
+@import "../tokens/fonts.scss";
+@import "../tokens/variables.scss";
+
+$OpenSans-600: (
+  "name": OpenSans,
+  "weight": 600,
+  "style": normal,
+);
+
+$OpenSans-400: (
+  "name": OpenSans,
+  "weight": 400,
+  "style": normal,
+);
+
+$OpenSans-300: (
+  "name": OpenSans,
+  "weight": 300,
+  "style": normal,
+);
+
+$Dosis-400: (
+  "name": Dosis,
+  "weight": 400,
+  "style": normal,
+);
+
+$headline-2: (
+  "size": 59px,
+  "spacing": -0.5px,
+);
+
+$headline-4: (
+  "size": 34px,
+  "spacing": 0.25px,
+);
+
+$headline-5: (
+  "size": 24px,
+  "spacing": 0px,
+);
+
+$headline-6: (
+  "size": 20px,
+  "spacing": 0.15px,
+);
+
+$body-1: (
+  "size": 18px,
+  "spacing": 0.5px,
+);
+
+$body-2: (
+  "size": 15px,
+  "spacing": 0.25px,
+);
+
+$button: (
+  "size": 15px,
+  "spacing": 1.25px,
+);
+
+$caption: (
+  "size": 13px,
+  "spacing": 0.4px,
+);
+
+$overline: (
+  "size": 11px,
+  "spacing": 0.5px,
+);
+
+$colors: (
+  "primary": $green,
+  "secondary": $blue,
+  "soft": $gray,
+  "light": $white,
+  "shadow": $black
+);

@@ -1,0 +1,57 @@
+@import "../utils/mixin-map.scss";
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  width: 100vw;
+  height: 100vh;
+  max-width: 1920px;
+  min-width: 360px;
+}
+body {
+  display: grid;
+  grid-template-rows: 150px auto auto;
+  @media (max-width: 850px) {
+    grid-template-rows: auto auto auto;
+  }
+}
+
+a {
+  text-decoration: none;
+}
+.header {
+  display: flex;
+  align-items: center;
+  padding: 0px 10vw;
+  border-bottom: 1px getColor("soft") solid;
+}
+.main {
+  padding: 0 10vw;
+  display: grid;
+  justify-items: center;
+}
+
+.footer {
+  border-bottom: 20px getColor("primary") solid;
+  align-content: flex-end;
+  display: flex;
+  justify-content: center;
+}
+
+.bar {
+  display: none;
+}
+
+@media (max-width: 850px) {
+  .header {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    height: 54px;
+    overflow-y: hidden;
+    transition: height 1s;
+  }
+  .header-expand {
+    height: 220px;
+  }
+}

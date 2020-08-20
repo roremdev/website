@@ -1,0 +1,21 @@
+.social {
+    display: flex;
+    align-items: flex-end;
+    margin-bottom: 48px;
+    & img {
+      width: 50px;
+      margin: 0px 35px;
+    }
+  }
+
+@media (max-width: 850px) {
+  .social {
+    display: flex;
+    align-items: flex-end;
+    margin-bottom: 24px;
+    & img {
+      width: 40px;
+      margin: 0px 12px;
+    }
+  }
+}

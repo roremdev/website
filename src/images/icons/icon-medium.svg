@@ -1,0 +1,16 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="40px"
+	 height="40px" viewBox="0 0 40 40" style="overflow:visible;enable-background:new 0 0 40 40;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#35495E;enable-background:new    ;}
+	.st1{fill:#FFFFFF;}
+</style>
+<defs>
+</defs>
+<g>
+	<path class="st0" d="M35,40H5c-2.8,0-5-2.2-5-5V5c0-2.8,2.2-5,5-5h30c2.8,0,5,2.2,5,5v30C40,37.8,37.8,40,35,40z"/>
+	<path class="st1" d="M30.5,12.4l2-1.9v-0.4h-6.9l-4.9,12.2l-5.6-12.2H7.8v0.4l2.3,2.8c0.2,0.2,0.3,0.5,0.3,0.8v11
+		c0.1,0.4-0.1,0.8-0.3,1.1l-2.6,3.2v0.4h7.4v-0.4l-2.6-3.2C12,26,11.9,25.6,12,25.2v-9.5l6.5,14.2h0.8l5.6-14.2V27
+		c0,0.3,0,0.4-0.2,0.6l-2,2v0.4h9.8v-0.4l-1.9-1.9c-0.2-0.1-0.3-0.3-0.2-0.6V13C30.2,12.8,30.3,12.6,30.5,12.4L30.5,12.4z"/>
+</g>
+</svg>
+

@@ -1,0 +1,41 @@
+@import "../utils/mixin-map.scss";
+
+.text {
+  width: 60vw;
+  &-center {
+    text-align: center;
+  }
+}
+
+.title {
+  @include text-style-map($OpenSans-300, $headline-2);
+  margin: $spaced;
+  @media (max-width: 850px) {
+    & {
+      @include text-style-map($OpenSans-300, $headline-5);
+      margin: $spaced;
+    }
+  }
+}
+
+.subtitle {
+  @include text-style-map($OpenSans-300, $headline-4);
+  margin: $spaced;
+  @media (max-width: 850px) {
+    & {
+      @include text-style-map($Dosis-400, $body-2);
+      margin: $spaced;
+    }
+  }
+}
+
+.content {
+  @include text-style-map($OpenSans-300, $headline-5);
+  margin: $spaced;
+  @media (max-width: 850px) {
+    & {
+      @include text-style-map($Dosis-400, $body-2);
+      margin: $spaced;
+    }
+  }  
+}

@@ -1,0 +1,11 @@
+extends layout
+block content
+    block header
+        include utils/menu-mix
+        +menu('Projects', 'Home', 'About', 'Blog')
+    main.main
+        include utils/card-mix
+        +card("imgae",
+        "Brave Exchange",
+        "A site where you see behavior of crypto coin and its movement in The mart.","1.0","tech")
+    footer.footer
