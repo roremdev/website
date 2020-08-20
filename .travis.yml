@@ -13,6 +13,7 @@ deploy:
     edge: true,
     skip-cleanup: true
     keep-history: true
+    local-dir: public/
     github-token: $GITHUB_TOKEN
     target-branch: gh-pages
     commit_messages: "Deploy Website"
