@@ -7,12 +7,13 @@ node_js:
 git:
     depth: 3
 script:
-    - npm run serve
+    - npm run build
 deploy:
     provider: pages
     edge: true,
     skip-cleanup: true
     keep-history: true
+    local-dir: public
     github-token: $GITHUB_TOKEN
     target-branch: gh-pages
     commit_messages: "Deploy Website"
